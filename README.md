@@ -13,3 +13,4 @@ It helps stakeholders monitor KPIs, identify growth opportunities, and make data
 
 ---
 
+![Dashboard](DASHBOARD.png)
